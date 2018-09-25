@@ -1,137 +1,697 @@
 #EXTM3U
-#EXTINF:-1,Al- Top News
-http://193.200.164.138:6204/live/Pizza/Pizza/9079.ts
-#EXTINF:-1,Al- Top Channel HD
-http://193.200.164.138:6204/live/Pizza/Pizza/9080.ts
-#EXTINF:-1,Al- ABC News 24/7
-http://193.200.164.138:6204/live/Pizza/Pizza/9128.ts
-#EXTINF:-1,Al- Klan
-http://193.200.164.138:6204/live/Pizza/Pizza/9102.ts
-#EXTINF:-1,Al- Klan HD
-http://193.200.164.138:6204/live/Pizza/Pizza/9101.ts
-#EXTINF:-1,Al- Digi Gold
-http://193.200.164.138:6204/live/Pizza/Pizza/9124.ts
-#EXTINF:-1,Al- KTV
-http://193.200.164.138:6204/live/Pizza/Pizza/9100.ts
-#EXTINF:-1,Al- News 24
-http://193.200.164.138:6204/live/Pizza/Pizza/9097.ts
-#EXTINF:-1,Al- TV Koha
-http://193.200.164.138:6204/live/Pizza/Pizza/9063.ts
-#EXTINF:-1,Al- Jolly HD
-http://193.200.164.138:6204/live/Pizza/Pizza/9104.ts
-#EXTINF:-1,Al- RTK 3
-http://193.200.164.138:6204/live/Pizza/Pizza/9096.ts
-#EXTINF:-1,Al- RTK 4
-http://193.200.164.138:6204/live/Pizza/Pizza/9095.ts
-#EXTINF:-1,Al- RTV 21
-http://193.200.164.138:6204/live/Pizza/Pizza/9094.ts
-#EXTINF:-1,Al- RTV 21 HD
-http://193.200.164.138:6204/live/Pizza/Pizza/9093.ts
-#EXTINF:-1,Al- RTV 21 HD Junior
-http://193.200.164.138:6204/live/Pizza/Pizza/9092.ts
-#EXTINF:-1,Al- RTV 21 HD Plus
-http://193.200.164.138:6204/live/Pizza/Pizza/9091.ts
-#EXTINF:-1,Al- RTV 21 HD Popullore
-http://193.200.164.138:6204/live/Pizza/Pizza/9090.ts
-#EXTINF:-1,Al- Folk Plus
-http://193.200.164.138:6204/live/Pizza/Pizza/9110.ts
-#EXTINF:-1,Al- Folklorit
-http://193.200.164.138:6204/live/Pizza/Pizza/9109.ts
-#EXTINF:-1,Al- Fox
-http://193.200.164.138:6204/live/Pizza/Pizza/9108.ts
-#EXTINF:-1,Al- Fox Crime
-http://193.200.164.138:6204/live/Pizza/Pizza/9107.ts
-#EXTINF:-1,Al- Fox Life
-http://193.200.164.138:6204/live/Pizza/Pizza/9106.ts
-#EXTINF:-1,Al- Fox Movies
-http://193.200.164.138:6204/live/Pizza/Pizza/9105.ts
-#EXTINF:-1,Al- Kino Aksion
-http://193.200.164.138:6204/live/Pizza/Pizza/9103.ts
-#EXTINF:-1,Al- Bang Bang
-http://193.200.164.138:6204/live/Pizza/Pizza/9127.ts
-#EXTINF:-1,Al- BBF Music TV
-http://193.200.164.138:6204/live/Pizza/Pizza/9126.ts
-#EXTINF:-1,Al- My Music
-http://193.200.164.138:6204/live/Pizza/Pizza/9098.ts
-#EXTINF:-1,Al- Cufo
-http://193.200.164.138:6204/live/Pizza/Pizza/9125.ts
-#EXTINF:-1,Al- Living HD
-http://193.200.164.138:6204/live/Pizza/Pizza/9099.ts
-#EXTINF:-1,Al- T  HD
-http://193.200.164.138:6204/live/Pizza/Pizza/9082.ts
-#EXTINF:-1,Al- TiranaTV
-http://193.200.164.138:6204/live/Pizza/Pizza/9081.ts
-#EXTINF:-1,Al- TVSH
-http://193.200.164.138:6204/live/Pizza/Pizza/9062.ts
-#EXTINF:-1,Al- Vizion Plus
-http://193.200.164.138:6204/live/Pizza/Pizza/9061.ts
-#EXTINF:-1,Al- Explorer History
-http://193.200.164.138:6204/live/Pizza/Pizza/9122.ts
-#EXTINF:-1,Al- Explorer Shkence
-http://193.200.164.138:6204/live/Pizza/Pizza/9121.ts
-#EXTINF:-1,Al- ExplorerNatyra
-http://193.200.164.138:6204/live/Pizza/Pizza/9120.ts
-#EXTINF:-1,Bn Sport HD1 1080i
-http://193.200.164.138:6204/live/Pizza/Pizza/127.ts
-#EXTINF:-1,Bn Sport HD2 1080i
-http://193.200.164.138:6204/live/Pizza/Pizza/128.ts
-#EXTINF:-1,Bn Sport HD3 1080i
-http://193.200.164.138:6204/live/Pizza/Pizza/129.ts
-#EXTINF:-1,Bn Sport HD4 1080i
-http://193.200.164.138:6204/live/Pizza/Pizza/130.ts
-#EXTINF:-1,Bn Sport HD5 1080i
-http://193.200.164.138:6204/live/Pizza/Pizza/132.ts
-#EXTINF:-1,Bn Sport HD6 1080i
-http://193.200.164.138:6204/live/Pizza/Pizza/133.ts
-#EXTINF:-1,Bn Sport HD7 1080i
-http://193.200.164.138:6204/live/Pizza/Pizza/134.ts
-#EXTINF:-1,Bn Sport HD8 1080i
-http://193.200.164.138:6204/live/Pizza/Pizza/135.ts
-#EXTINF:-1,Bn Sport HD9 1080i
-http://193.200.164.138:6204/live/Pizza/Pizza/186.ts
-#EXTINF:-1,Bn Sport HD10 1080i
-http://193.200.164.138:6204/live/Pizza/Pizza/187.ts
-#EXTINF:-1,Bn Sport HD1 720P
-http://193.200.164.138:6204/live/Pizza/Pizza/9022.ts
-#EXTINF:-1,Bn Sport HD2 720P
-http://193.200.164.138:6204/live/Pizza/Pizza/9021.ts
-#EXTINF:-1,Bn Sport HD3 720P
-http://193.200.164.138:6204/live/Pizza/Pizza/9020.ts
-#EXTINF:-1,Bn Sport HD4 720P
-http://193.200.164.138:6204/live/Pizza/Pizza/9019.ts
-#EXTINF:-1,Bn Sport HD5 720P
-http://193.200.164.138:6204/live/Pizza/Pizza/9018.ts
-#EXTINF:-1,Bn Sport HD6 720P
-http://193.200.164.138:6204/live/Pizza/Pizza/9017.ts
-#EXTINF:-1,Bn Sport HD7 720P
-http://193.200.164.138:6204/live/Pizza/Pizza/9016.ts
-#EXTINF:-1,Bn Sport HD8 720P
-http://193.200.164.138:6204/live/Pizza/Pizza/9015.ts
-#EXTINF:-1,Bn Sport HD9 720P
-http://193.200.164.138:6204/live/Pizza/Pizza/9014.ts
-#EXTINF:-1,Bn Sport HD10 720P
-http://193.200.164.138:6204/live/Pizza/Pizza/9013.ts
-#EXTINF:-1,Bn Sport HD11 EN 720P
-http://193.200.164.138:6204/live/Pizza/Pizza/9012.ts
-#EXTINF:-1,Bn Sport SD1
-http://193.200.164.138:6204/live/Pizza/Pizza/1913.ts
-#EXTINF:-1,Bn Sport SD2
-http://193.200.164.138:6204/live/Pizza/Pizza/1914.ts
-#EXTINF:-1,Bn Sport SD3
-http://193.200.164.138:6204/live/Pizza/Pizza/1915.ts
-#EXTINF:-1,Bn Sport SD4
-http://193.200.164.138:6204/live/Pizza/Pizza/1916.ts
-#EXTINF:-1,Bn Sport SD5
-http://193.200.164.138:6204/live/Pizza/Pizza/1917.ts
-#EXTINF:-1,Bn Sport SD6
-http://193.200.164.138:6204/live/Pizza/Pizza/1918.ts
-#EXTINF:-1,Bn Sport SD7
-http://193.200.164.138:6204/live/Pizza/Pizza/1919.ts
-#EXTINF:-1,Bn Sport SD8
-http://193.200.164.138:6204/live/Pizza/Pizza/1920.ts
-#EXTINF:-1,Bn Sport SD9
-http://193.200.164.138:6204/live/Pizza/Pizza/1921.ts
-#EXTINF:-1,Bn Sport SD10
-http://193.200.164.138:6204/live/Pizza/Pizza/1922.ts
-#EXTINF:-1,Bn Sport SD11
-http://193.200.164.138:6204/live/Pizza/Pizza/1923.ts
+#EXTINF:-1,FR: Equidia Life
+http://ultimateiptv.ddns.net:8000/live/DiogoDias/Cx3OcSIVPP/1438.ts
+#EXTINF:-1,FR: ZOUZOUS
+http://ultimateiptv.ddns.net:8000/live/DiogoDias/Cx3OcSIVPP/1147.ts
+#EXTINF:-1,FR: VIRGIN TV
+http://ultimateiptv.ddns.net:8000/live/DiogoDias/Cx3OcSIVPP/1145.ts
+#EXTINF:-1,FR: Tiji
+http://ultimateiptv.ddns.net:8000/live/DiogoDias/Cx3OcSIVPP/1139.ts
+#EXTINF:-1,FR: TELETOON
+http://ultimateiptv.ddns.net:8000/live/DiogoDias/Cx3OcSIVPP/1140.ts
+#EXTINF:-1,FR: Science et Vie TV
+http://ultimateiptv.ddns.net:8000/live/DiogoDias/Cx3OcSIVPP/1146.ts
+#EXTINF:-1,FR: PIWI
+http://ultimateiptv.ddns.net:8000/live/DiogoDias/Cx3OcSIVPP/1144.ts
+#EXTINF:-1,FR: PARIS PREMIERE
+http://ultimateiptv.ddns.net:8000/live/DiogoDias/Cx3OcSIVPP/1141.ts
+#EXTINF:-1,FR: PARAMOUNT Channel
+http://ultimateiptv.ddns.net:8000/live/DiogoDias/Cx3OcSIVPP/1142.ts
+#EXTINF:-1,FR: MANGAS HD
+http://ultimateiptv.ddns.net:8000/live/DiogoDias/Cx3OcSIVPP/1148.ts
+#EXTINF:-1,FR: MANGAS
+http://ultimateiptv.ddns.net:8000/live/DiogoDias/Cx3OcSIVPP/1143.ts
+#EXTINF:-1,FR: Canal Play 8
+http://ultimateiptv.ddns.net:8000/live/DiogoDias/Cx3OcSIVPP/1156.ts
+#EXTINF:-1,FR: Canal Play 7
+http://ultimateiptv.ddns.net:8000/live/DiogoDias/Cx3OcSIVPP/1155.ts
+#EXTINF:-1,FR: Canal Play 6
+http://ultimateiptv.ddns.net:8000/live/DiogoDias/Cx3OcSIVPP/1154.ts
+#EXTINF:-1,FR: Canal Play 4
+http://ultimateiptv.ddns.net:8000/live/DiogoDias/Cx3OcSIVPP/1152.ts
+#EXTINF:-1,FR: Canal Play 3
+http://ultimateiptv.ddns.net:8000/live/DiogoDias/Cx3OcSIVPP/1151.ts
+#EXTINF:-1,FR: Canal Play 2
+http://ultimateiptv.ddns.net:8000/live/DiogoDias/Cx3OcSIVPP/1150.ts
+#EXTINF:-1,FR: Canal Play 1
+http://ultimateiptv.ddns.net:8000/live/DiogoDias/Cx3OcSIVPP/1149.ts
+#EXTINF:-1,FR: Canal  Play 5
+http://ultimateiptv.ddns.net:8000/live/DiogoDias/Cx3OcSIVPP/1153.ts
+#EXTINF:-1,FR: Boomerang France HD
+http://ultimateiptv.ddns.net:8000/live/DiogoDias/Cx3OcSIVPP/1138.ts
+#EXTINF:-1,FR: Ciné + Premier
+http://ultimateiptv.ddns.net:8000/live/DiogoDias/Cx3OcSIVPP/433.ts
+#EXTINF:-1,FR: Action
+http://ultimateiptv.ddns.net:8000/live/DiogoDias/Cx3OcSIVPP/432.ts
+#EXTINF:-1,FR: W9
+http://ultimateiptv.ddns.net:8000/live/DiogoDias/Cx3OcSIVPP/187.ts
+#EXTINF:-1,FR: Voyage
+http://ultimateiptv.ddns.net:8000/live/DiogoDias/Cx3OcSIVPP/255.ts
+#EXTINF:-1,FR: TV5Monde
+http://ultimateiptv.ddns.net:8000/live/DiogoDias/Cx3OcSIVPP/155.ts
+#EXTINF:-1,FR: Toute l'Histoire
+http://ultimateiptv.ddns.net:8000/live/DiogoDias/Cx3OcSIVPP/256.ts
+#EXTINF:-1,FR: TF1
+http://ultimateiptv.ddns.net:8000/live/DiogoDias/Cx3OcSIVPP/164.ts
+#EXTINF:-1,FR: Teva HD
+http://ultimateiptv.ddns.net:8000/live/DiogoDias/Cx3OcSIVPP/257.ts
+#EXTINF:-1,FR: Syfy HD
+http://ultimateiptv.ddns.net:8000/live/DiogoDias/Cx3OcSIVPP/258.ts
+#EXTINF:-1,FR: SFR Sport 3
+http://ultimateiptv.ddns.net:8000/live/DiogoDias/Cx3OcSIVPP/227.ts
+#EXTINF:-1,FR: SFR Sport 2
+http://ultimateiptv.ddns.net:8000/live/DiogoDias/Cx3OcSIVPP/226.ts
+#EXTINF:-1,FR: SFR Sport 1
+http://ultimateiptv.ddns.net:8000/live/DiogoDias/Cx3OcSIVPP/225.ts
+#EXTINF:-1,FR: Serie Club
+http://ultimateiptv.ddns.net:8000/live/DiogoDias/Cx3OcSIVPP/259.ts
+#EXTINF:-1,FR: RTS Un
+http://ultimateiptv.ddns.net:8000/live/DiogoDias/Cx3OcSIVPP/260.ts
+#EXTINF:-1,FR: RTS Deux
+http://ultimateiptv.ddns.net:8000/live/DiogoDias/Cx3OcSIVPP/261.ts
+#EXTINF:-1,FR: RTL9 HD
+http://ultimateiptv.ddns.net:8000/live/DiogoDias/Cx3OcSIVPP/232.ts
+#EXTINF:-1,FR: Planete + CI HD
+http://ultimateiptv.ddns.net:8000/live/DiogoDias/Cx3OcSIVPP/240.ts
+#EXTINF:-1,FR: OCS MAX HD
+http://ultimateiptv.ddns.net:8000/live/DiogoDias/Cx3OcSIVPP/262.ts
+#EXTINF:-1,FR: OCS City
+http://ultimateiptv.ddns.net:8000/live/DiogoDias/Cx3OcSIVPP/263.ts
+#EXTINF:-1,FR: OCS CHOC HD
+http://ultimateiptv.ddns.net:8000/live/DiogoDias/Cx3OcSIVPP/264.ts
+#EXTINF:-1,FR: NRJ 12
+http://ultimateiptv.ddns.net:8000/live/DiogoDias/Cx3OcSIVPP/266.ts
+#EXTINF:-1,FR: Nicklodeon Junior
+http://ultimateiptv.ddns.net:8000/live/DiogoDias/Cx3OcSIVPP/236.ts
+#EXTINF:-1,FR: National Geographic
+http://ultimateiptv.ddns.net:8000/live/DiogoDias/Cx3OcSIVPP/267.ts
+#EXTINF:-1,FR: MTV Music
+http://ultimateiptv.ddns.net:8000/live/DiogoDias/Cx3OcSIVPP/268.ts
+#EXTINF:-1,FR: MTV Base
+http://ultimateiptv.ddns.net:8000/live/DiogoDias/Cx3OcSIVPP/269.ts
+#EXTINF:-1,FR: M6 HD
+http://ultimateiptv.ddns.net:8000/live/DiogoDias/Cx3OcSIVPP/188.ts
+#EXTINF:-1,FR: LCI
+http://ultimateiptv.ddns.net:8000/live/DiogoDias/Cx3OcSIVPP/254.ts
+#EXTINF:-1,FR: L'equipe 21
+http://ultimateiptv.ddns.net:8000/live/DiogoDias/Cx3OcSIVPP/160.ts
+#EXTINF:-1,FR: ITélé
+http://ultimateiptv.ddns.net:8000/live/DiogoDias/Cx3OcSIVPP/270.ts
+#EXTINF:-1,FR: InfoSport
+http://ultimateiptv.ddns.net:8000/live/DiogoDias/Cx3OcSIVPP/271.ts
+#EXTINF:-1,FR: HD1
+http://ultimateiptv.ddns.net:8000/live/DiogoDias/Cx3OcSIVPP/272.ts
+#EXTINF:-1,FR: Gulli HD
+http://ultimateiptv.ddns.net:8000/live/DiogoDias/Cx3OcSIVPP/273.ts
+#EXTINF:-1,FR: France O HD
+http://ultimateiptv.ddns.net:8000/live/DiogoDias/Cx3OcSIVPP/274.ts
+#EXTINF:-1,FR: France 4 HD
+http://ultimateiptv.ddns.net:8000/live/DiogoDias/Cx3OcSIVPP/231.ts
+#EXTINF:-1,FR: France 3 HD
+http://ultimateiptv.ddns.net:8000/live/DiogoDias/Cx3OcSIVPP/230.ts
+#EXTINF:-1,FR: France 24
+http://ultimateiptv.ddns.net:8000/live/DiogoDias/Cx3OcSIVPP/153.ts
+#EXTINF:-1,FR: France 2 HD
+http://ultimateiptv.ddns.net:8000/live/DiogoDias/Cx3OcSIVPP/229.ts
+#EXTINF:-1,FR: Foot + 24
+http://ultimateiptv.ddns.net:8000/live/DiogoDias/Cx3OcSIVPP/194.ts
+#EXTINF:-1,FR: Eurosport
+http://ultimateiptv.ddns.net:8000/live/DiogoDias/Cx3OcSIVPP/195.ts
+#EXTINF:-1,FR: Disney XD
+http://ultimateiptv.ddns.net:8000/live/DiogoDias/Cx3OcSIVPP/237.ts
+#EXTINF:-1,FR: Disney Junior
+http://ultimateiptv.ddns.net:8000/live/DiogoDias/Cx3OcSIVPP/275.ts
+#EXTINF:-1,FR: Disney CineMagic
+http://ultimateiptv.ddns.net:8000/live/DiogoDias/Cx3OcSIVPP/276.ts
+#EXTINF:-1,FR: Disney Channel
+http://ultimateiptv.ddns.net:8000/live/DiogoDias/Cx3OcSIVPP/235.ts
+#EXTINF:-1,FR: Discovery Science
+http://ultimateiptv.ddns.net:8000/live/DiogoDias/Cx3OcSIVPP/277.ts
+#EXTINF:-1,FR: C8
+http://ultimateiptv.ddns.net:8000/live/DiogoDias/Cx3OcSIVPP/242.ts
+#EXTINF:-1,FR: CStar
+http://ultimateiptv.ddns.net:8000/live/DiogoDias/Cx3OcSIVPP/278.ts
+#EXTINF:-1,FR: Comedie Plus
+http://ultimateiptv.ddns.net:8000/live/DiogoDias/Cx3OcSIVPP/279.ts
+#EXTINF:-1,FR: Ciné Premier HD
+http://ultimateiptv.ddns.net:8000/live/DiogoDias/Cx3OcSIVPP/250.ts
+#EXTINF:-1,FR: Ciné FX
+http://ultimateiptv.ddns.net:8000/live/DiogoDias/Cx3OcSIVPP/239.ts
+#EXTINF:-1,FR: Ciné Frisson HD
+http://ultimateiptv.ddns.net:8000/live/DiogoDias/Cx3OcSIVPP/251.ts
+#EXTINF:-1,FR: Ciné Emotion HD
+http://ultimateiptv.ddns.net:8000/live/DiogoDias/Cx3OcSIVPP/252.ts
+#EXTINF:-1,FR: Ciné Classic
+http://ultimateiptv.ddns.net:8000/live/DiogoDias/Cx3OcSIVPP/280.ts
+#EXTINF:-1,FR: Chérie 25
+http://ultimateiptv.ddns.net:8000/live/DiogoDias/Cx3OcSIVPP/281.ts
+#EXTINF:-1,FR: Cartoon Network
+http://ultimateiptv.ddns.net:8000/live/DiogoDias/Cx3OcSIVPP/233.ts
+#EXTINF:-1,FR: France 5 HD
+http://ultimateiptv.ddns.net:8000/live/DiogoDias/Cx3OcSIVPP/282.ts
+#EXTINF:-1,FR: Canal + Sport HD
+http://ultimateiptv.ddns.net:8000/live/DiogoDias/Cx3OcSIVPP/120.ts
+#EXTINF:-1,FR: Canal + Family HD
+http://ultimateiptv.ddns.net:8000/live/DiogoDias/Cx3OcSIVPP/283.ts
+#EXTINF:-1,FR: Canal + Decale HD
+http://ultimateiptv.ddns.net:8000/live/DiogoDias/Cx3OcSIVPP/284.ts
+#EXTINF:-1,FR: Canal + Cinema HD
+http://ultimateiptv.ddns.net:8000/live/DiogoDias/Cx3OcSIVPP/285.ts
+#EXTINF:-1,FR: Canal +
+http://ultimateiptv.ddns.net:8000/live/DiogoDias/Cx3OcSIVPP/228.ts
+#EXTINF:-1,FR: Boomerang HD
+http://ultimateiptv.ddns.net:8000/live/DiogoDias/Cx3OcSIVPP/286.ts
+#EXTINF:-1,FR: Boing
+http://ultimateiptv.ddns.net:8000/live/DiogoDias/Cx3OcSIVPP/287.ts
+#EXTINF:-1,FR: BFM Tv
+http://ultimateiptv.ddns.net:8000/live/DiogoDias/Cx3OcSIVPP/288.ts
+#EXTINF:-1,FR: beIN Sport 3
+http://ultimateiptv.ddns.net:8000/live/DiogoDias/Cx3OcSIVPP/116.ts
+#EXTINF:-1,FR: beIN Sport 2
+http://ultimateiptv.ddns.net:8000/live/DiogoDias/Cx3OcSIVPP/115.ts
+#EXTINF:-1,FR: beIN Sport 1
+http://ultimateiptv.ddns.net:8000/live/DiogoDias/Cx3OcSIVPP/114.ts
+#EXTINF:-1,FR: Arte
+http://ultimateiptv.ddns.net:8000/live/DiogoDias/Cx3OcSIVPP/165.ts
+#EXTINF:-1,FR: Animaux
+http://ultimateiptv.ddns.net:8000/live/DiogoDias/Cx3OcSIVPP/234.ts
+#EXTINF:-1,FR: AB1 HD
+http://ultimateiptv.ddns.net:8000/live/DiogoDias/Cx3OcSIVPP/289.ts
+#EXTINF:-1,FR: A la Carte 6
+http://ultimateiptv.ddns.net:8000/live/DiogoDias/Cx3OcSIVPP/248.ts
+#EXTINF:-1,FR: A la Carte 5
+http://ultimateiptv.ddns.net:8000/live/DiogoDias/Cx3OcSIVPP/247.ts
+#EXTINF:-1,FR: A la Carte 4
+http://ultimateiptv.ddns.net:8000/live/DiogoDias/Cx3OcSIVPP/246.ts
+#EXTINF:-1,FR: A la Carte 3
+http://ultimateiptv.ddns.net:8000/live/DiogoDias/Cx3OcSIVPP/245.ts
+#EXTINF:-1,FR: A la Carte 2
+http://ultimateiptv.ddns.net:8000/live/DiogoDias/Cx3OcSIVPP/244.ts
+#EXTINF:-1,FR: A la Carte 1
+http://ultimateiptv.ddns.net:8000/live/DiogoDias/Cx3OcSIVPP/243.ts
+#EXTINF:-1,FR: 6ter HD
+http://ultimateiptv.ddns.net:8000/live/DiogoDias/Cx3OcSIVPP/290.ts
+#EXTINF:-1,FR: 13 Eme Rue HD
+http://ultimateiptv.ddns.net:8000/live/DiogoDias/Cx3OcSIVPP/291.ts
+#EXTM3U
+#EXTINF:-1,TR | BEIN SPORTS HABER
+http://185.53.163.220:2015/live/280690/280690/36893.ts
+#EXTINF:-1,TR| BEIN SPORT 4 K HD 1080
+http://185.53.163.220:2015/live/280690/280690/30027.ts
+#EXTINF:-1,TR| BEIN SPORT 4K UHD
+http://185.53.163.220:2015/live/280690/280690/30028.ts
+#EXTINF:-1,TR_Y |BEIN SPORTS 4K
+http://185.53.163.220:2015/live/280690/280690/36488.ts
+#EXTINF:-1,TR | BEIN SPORTS 1 FHD
+http://185.53.163.220:2015/live/280690/280690/26551.ts
+#EXTINF:-1,TR_Y |BEIN SPORTS 1 HD (1920x1080)
+http://185.53.163.220:2015/live/280690/280690/36492.ts
+#EXTINF:-1,TR| BEIN SPORT 1 1280x720p HD
+http://185.53.163.220:2015/live/280690/280690/30022.ts
+#EXTINF:-1,TR| BEIN SPORT 1 HD 1080
+http://185.53.163.220:2015/live/280690/280690/30026.ts
+#EXTINF:-1,TR| BEiN SPORT 1 HD 720
+http://185.53.163.220:2015/live/280690/280690/30024.ts
+#EXTINF:-1,TR_Y |BEIN SPORTS SD 1 (1120x640)
+http://185.53.163.220:2015/live/280690/280690/36483.ts
+#EXTINF:-1,TR| BEIN SPORT 1 1280x720p (Yedek)
+http://185.53.163.220:2015/live/280690/280690/30023.ts
+#EXTINF:-1,TR | BEIN SPORTS 1 HD
+http://185.53.163.220:2015/live/280690/280690/24229.ts
+#EXTINF:-1,TR | BEIN SPORTS 1 SD
+http://185.53.163.220:2015/live/280690/280690/24223.ts
+#EXTINF:-1,TR_Y |BEIN SPORTS 2 HD (1920X1080)
+http://185.53.163.220:2015/live/280690/280690/36491.ts
+#EXTINF:-1,TR| BEIN SPORT 2 1280x720p (Yedek)
+http://185.53.163.220:2015/live/280690/280690/30017.ts
+#EXTINF:-1,TR| BEIN SPORT 2 1280x720p SD
+http://185.53.163.220:2015/live/280690/280690/30016.ts
+#EXTINF:-1,TR_Y |BEIN SPORTS SD 2 (1120x640)
+http://185.53.163.220:2015/live/280690/280690/36482.ts
+#EXTINF:-1,TR| BEIN SPORT 2 HD 1080
+http://185.53.163.220:2015/live/280690/280690/30020.ts
+#EXTINF:-1,TR| BEIN SPORT 2 HD 720
+http://185.53.163.220:2015/live/280690/280690/30018.ts
+#EXTINF:-1,TR | BEIN SPORTS 2 FHD
+http://185.53.163.220:2015/live/280690/280690/26550.ts
+#EXTINF:-1,TR | BEIN SPORTS 2 HD
+http://185.53.163.220:2015/live/280690/280690/24228.ts
+#EXTINF:-1,TR | BEIN SPORTS 2 SD
+http://185.53.163.220:2015/live/280690/280690/24222.ts
+#EXTINF:-1,TR_Y |BEIN SPORTS 3 HD (1920X1080)
+http://185.53.163.220:2015/live/280690/280690/36490.ts
+#EXTINF:-1,TR| BEIN SPORT 3 1280x720p (Yedek)
+http://185.53.163.220:2015/live/280690/280690/30010.ts
+#EXTINF:-1,TR| BEIN SPORT 3 1280x720p HD
+http://185.53.163.220:2015/live/280690/280690/30012.ts
+#EXTINF:-1,TR_Y |BEIN SPORTS SD 3 (1120x640)
+http://185.53.163.220:2015/live/280690/280690/36481.ts
+#EXTINF:-1,TR| BEIN SPORT 3 HD 1080
+http://185.53.163.220:2015/live/280690/280690/30014.ts
+#EXTINF:-1,TR| BEIN SPORT 3 HD 720
+http://185.53.163.220:2015/live/280690/280690/30011.ts
+#EXTINF:-1,TR | BEIN SPORTS 3 HD
+http://185.53.163.220:2015/live/280690/280690/24227.ts
+#EXTINF:-1,TR | BEIN SPORTS 3 SD
+http://185.53.163.220:2015/live/280690/280690/24221.ts
+#EXTINF:-1,TR| BEIN SPORT 4 1080p HD
+http://185.53.163.220:2015/live/280690/280690/30006.ts
+#EXTINF:-1,TR_Y |BEIN SPORTS 4 HD (1920X1080)
+http://185.53.163.220:2015/live/280690/280690/36489.ts
+#EXTINF:-1,TR_Y |BEIN SPORTS SD 4 (1120x640)
+http://185.53.163.220:2015/live/280690/280690/36480.ts
+#EXTINF:-1,TR| BEIN SPORT 4 1280x720p (Yedek)
+http://185.53.163.220:2015/live/280690/280690/30005.ts
+#EXTINF:-1,TR| BEIN SPORT 4 1280x720p SD
+http://185.53.163.220:2015/live/280690/280690/30004.ts
+#EXTINF:-1,TR| BEIN SPORT 4 HD 1080
+http://185.53.163.220:2015/live/280690/280690/30008.ts
+#EXTINF:-1,TR| BEIN SPORT 4 HD 720
+http://185.53.163.220:2015/live/280690/280690/30007.ts
+#EXTINF:-1,TR | BEIN SPORTS 4 HD
+http://185.53.163.220:2015/live/280690/280690/24226.ts
+#EXTINF:-1,TR | BEIN SPORTS 4 SD
+http://185.53.163.220:2015/live/280690/280690/24220.ts
+#EXTINF:-1,TR_Y |BEIN SPORTS MAX 1 HD (1920x1080)
+http://185.53.163.220:2015/live/280690/280690/36487.ts
+#EXTINF:-1,TR_Y |BEIN SPORTS MAX 1 SD (1120x640)
+http://185.53.163.220:2015/live/280690/280690/36486.ts
+#EXTINF:-1,TR_Y |BEIN SPORTS MAX 2 HD (1920x1080)
+http://185.53.163.220:2015/live/280690/280690/36485.ts
+#EXTINF:-1,TR_Y |BEIN SPORTS MAX 2 SD (1120x640)
+http://185.53.163.220:2015/live/280690/280690/36484.ts
+#EXTINF:-1,TR| BEIN SPORT MAX 2 HD 1080
+http://185.53.163.220:2015/live/280690/280690/30000.ts
+#EXTINF:-1,TR| BEIN SPORT Max1 1280x720p HD
+http://185.53.163.220:2015/live/280690/280690/29999.ts
+#EXTINF:-1,TR| BEIN SPORT Max2 1280x720p HD
+http://185.53.163.220:2015/live/280690/280690/29998.ts
+#EXTINF:-1,TR| BEINSPORTS MAX 1 HD 1080
+http://185.53.163.220:2015/live/280690/280690/30001.ts
+#EXTINF:-1,TR | BEIN SPORTS MAX 1 HD
+http://185.53.163.220:2015/live/280690/280690/24225.ts
+#EXTINF:-1,TR | BEIN SPORTS MAX 2 HD
+http://185.53.163.220:2015/live/280690/280690/24224.ts
+#EXTINF:-1,TR | BEIN SPORTS TR 1
+http://185.53.163.220:2015/live/280690/280690/7574.ts
+#EXTINF:-1,TR | BEIN SPORTS TR 2.
+http://185.53.163.220:2015/live/280690/280690/7575.ts
+#EXTINF:-1,TR | BEIN SPORTS TR 3
+http://185.53.163.220:2015/live/280690/280690/7576.ts
+#EXTINF:-1,TR | BEIN SPORTS TR 4.
+http://185.53.163.220:2015/live/280690/280690/1143.ts
+#EXTINF:-1,TR| BJK TV HD
+http://185.53.163.220:2015/live/280690/280690/29981.ts
+#EXTINF:-1,TR| Eurosport 1 HD FILTV
+http://185.53.163.220:2015/live/280690/280690/29973.ts
+#EXTINF:-1,TR| FB TV HD
+http://185.53.163.220:2015/live/280690/280690/29980.ts
+#EXTINF:-1,TR| FightBox HD
+http://185.53.163.220:2015/live/280690/280690/29970.ts
+#EXTINF:-1,TR| GS TV HD
+http://185.53.163.220:2015/live/280690/280690/29979.ts
+#EXTINF:-1,TR| NBA TV HD 1080
+http://185.53.163.220:2015/live/280690/280690/29972.ts
+#EXTINF:-1,TR| SARAN SPORT HD 1080
+http://185.53.163.220:2015/live/280690/280690/29975.ts
+#EXTINF:-1,TR| SMART SPOR HD 1080
+http://185.53.163.220:2015/live/280690/280690/29977.ts
+#EXTINF:-1,TR| TAY TV HD
+http://185.53.163.220:2015/live/280690/280690/29978.ts
+#EXTINF:-1,TR_Y |SARANSPORT HD (1920x1080)
+http://185.53.163.220:2015/live/280690/280690/36479.ts
+#EXTINF:-1,TR_Y |SMARTSPOR HD (1920x1080)
+http://185.53.163.220:2015/live/280690/280690/36478.ts
+#EXTINF:-1,TR_Y |TiViBUSPOR 1 HD (1920x1080)
+http://185.53.163.220:2015/live/280690/280690/36477.ts
+#EXTINF:-1,TR_Y |TiViBUSPOR 2 HD (1920x1080)
+http://185.53.163.220:2015/live/280690/280690/36476.ts
+#EXTINF:-1,TR_Y |TiViBUSPOR 3 HD (1920x1080)
+http://185.53.163.220:2015/live/280690/280690/36475.ts
+#EXTINF:-1,TR_Y |TiViBUSPOR 4 HD (1920x1080)
+http://185.53.163.220:2015/live/280690/280690/36474.ts
+#EXTINF:-1,TR| Tivibu Spor 1 HD
+http://185.53.163.220:2015/live/280690/280690/29993.ts
+#EXTINF:-1,TR| Tivibu Spor 1 HD 1080
+http://185.53.163.220:2015/live/280690/280690/29992.ts
+#EXTINF:-1,TR| Tivibu Spor 2 HD
+http://185.53.163.220:2015/live/280690/280690/29990.ts
+#EXTINF:-1,TR| Tivibu Spor 2 HD (1920x1080)
+http://185.53.163.220:2015/live/280690/280690/29988.ts
+#EXTINF:-1,TR| Tivibu Spor 2 HD 1080
+http://185.53.163.220:2015/live/280690/280690/29989.ts
+#EXTINF:-1,TR| Tivibu Spor 3 HD
+http://185.53.163.220:2015/live/280690/280690/29987.ts
+#EXTINF:-1,TR| Tivibu Spor 3 HD 1080
+http://185.53.163.220:2015/live/280690/280690/29986.ts
+#EXTINF:-1,TR| Tivibu Spor 4 HD
+http://185.53.163.220:2015/live/280690/280690/29984.ts
+#EXTINF:-1,TR| Tivibu Spor 4 HD 1080
+http://185.53.163.220:2015/live/280690/280690/29983.ts
+#EXTINF:-1,TR | TIVIBU SPOR 1 HD
+http://185.53.163.220:2015/live/280690/280690/7.ts
+#EXTINF:-1,TR | TIVIBU SPOR 2 HD
+http://185.53.163.220:2015/live/280690/280690/951.ts
+#EXTINF:-1,TR | TIVIBU SPOR 3 HD
+http://185.53.163.220:2015/live/280690/280690/8026.ts
+#EXTINF:-1,TR | TIVIBU SPOR 4 HD
+http://185.53.163.220:2015/live/280690/280690/8027.ts
+#EXTINF:-1,TR | SMART SPORT HD
+http://185.53.163.220:2015/live/280690/280690/10404.ts
+#EXTINF:-1,TR | SARAN SPORT
+http://185.53.163.220:2015/live/280690/280690/24507.ts
+#EXTINF:-1,TR | EUROSPORT 1 HD
+http://185.53.163.220:2015/live/280690/280690/24219.ts
+#EXTINF:-1,TR | EUROSPORT 2 HD
+http://185.53.163.220:2015/live/280690/280690/24218.ts
+#EXTINF:-1,TR | NBA TV HD
+http://185.53.163.220:2015/live/280690/280690/12442.ts
+#EXTINF:-1,TR | D MAX TR 4K
+http://185.53.163.220:2015/live/280690/280690/1028.ts
+#EXTINF:-1,TR | A SPOR
+http://185.53.163.220:2015/live/280690/280690/1412.ts
+#EXTINF:-1,TR | FBTV
+http://185.53.163.220:2015/live/280690/280690/1411.ts
+#EXTINF:-1,TR | D MAX.
+http://185.53.163.220:2015/live/280690/280690/1410.ts
+#EXTINF:-1,TR | SPORTS TV
+http://185.53.163.220:2015/live/280690/280690/1409.ts
+#EXTINF:-1,TR | TRT SPOR
+http://185.53.163.220:2015/live/280690/280690/1407.ts
+#EXTINF:-1,TR | TRT 1
+http://185.53.163.220:2015/live/280690/280690/1380.ts
+#EXTINF:-1,TR | TRT1 HD
+http://185.53.163.220:2015/live/280690/280690/31109.ts
+#EXTINF:-1,TR | TRT 1 4K
+http://185.53.163.220:2015/live/280690/280690/33847.ts
+#EXTINF:-1,TR | TRT TURK
+http://185.53.163.220:2015/live/280690/280690/1381.ts
+#EXTINF:-1,TR | TRT DIYANET HD
+http://185.53.163.220:2015/live/280690/280690/29774.ts
+#EXTINF:-1,TR | ATV
+http://185.53.163.220:2015/live/280690/280690/1387.ts
+#EXTINF:-1,TR | ATV HD
+http://185.53.163.220:2015/live/280690/280690/31103.ts
+#EXTINF:-1,TR | ATV 4K
+http://185.53.163.220:2015/live/280690/280690/33846.ts
+#EXTINF:-1,TR | A2 TV
+http://185.53.163.220:2015/live/280690/280690/8910.ts
+#EXTINF:-1,TR | FOX TV
+http://185.53.163.220:2015/live/280690/280690/1384.ts
+#EXTINF:-1,TR | FOX HD
+http://185.53.163.220:2015/live/280690/280690/31104.ts
+#EXTINF:-1,TR | FOX TV 4K
+http://185.53.163.220:2015/live/280690/280690/33841.ts
+#EXTINF:-1,TR | KANAL D
+http://185.53.163.220:2015/live/280690/280690/1386.ts
+#EXTINF:-1,TR | KANAL D HD
+http://185.53.163.220:2015/live/280690/280690/31105.ts
+#EXTINF:-1,TR | KANAL D 4K
+http://185.53.163.220:2015/live/280690/280690/33845.ts
+#EXTINF:-1,TR | STAR TV
+http://185.53.163.220:2015/live/280690/280690/1385.ts
+#EXTINF:-1,TR | STAR TV 4K
+http://185.53.163.220:2015/live/280690/280690/33843.ts
+#EXTINF:-1,TR | EUROSTAR
+http://185.53.163.220:2015/live/280690/280690/1546.ts
+#EXTINF:-1,TR | SHOW TV
+http://185.53.163.220:2015/live/280690/280690/1383.ts
+#EXTINF:-1,TR | SHOW TV HD
+http://185.53.163.220:2015/live/280690/280690/31106.ts
+#EXTINF:-1,TR | SHOW TV 4K
+http://185.53.163.220:2015/live/280690/280690/33842.ts
+#EXTINF:-1,TR | TV8
+http://185.53.163.220:2015/live/280690/280690/1388.ts
+#EXTINF:-1,TR | TV 8 HD
+http://185.53.163.220:2015/live/280690/280690/31107.ts
+#EXTINF:-1,TR | TV 8 4K
+http://185.53.163.220:2015/live/280690/280690/33844.ts
+#EXTINF:-1,TR | TV 8.5
+http://185.53.163.220:2015/live/280690/280690/7959.ts
+#EXTINF:-1,TR | TV 8 5 HD
+http://185.53.163.220:2015/live/280690/280690/31108.ts
+#EXTINF:-1,TR | CINE 5
+http://185.53.163.220:2015/live/280690/280690/28828.ts
+#EXTINF:-1,TR | KANAL 7
+http://185.53.163.220:2015/live/280690/280690/1389.ts
+#EXTINF:-1,TR | SHOW MAX
+http://185.53.163.220:2015/live/280690/280690/1390.ts
+#EXTINF:-1,TR | TV2
+http://185.53.163.220:2015/live/280690/280690/1391.ts
+#EXTM3U
+#EXTINF:-1,DE | ARD UHD
+http://yeni.mars3000.net:25461/live/salihakdogan/7zJNLVnNTk/502.ts
+#EXTINF:-1,DE | ARD HD
+http://yeni.mars3000.net:25461/live/salihakdogan/7zJNLVnNTk/196.ts
+#EXTINF:-1,DE | ARD SD
+http://yeni.mars3000.net:25461/live/salihakdogan/7zJNLVnNTk/567.ts
+#EXTINF:-1,DE | ZDF UHD
+http://yeni.mars3000.net:25461/live/salihakdogan/7zJNLVnNTk/823.ts
+#EXTINF:-1,DE | ZDF HD
+http://yeni.mars3000.net:25461/live/salihakdogan/7zJNLVnNTk/195.ts
+#EXTINF:-1,DE | ZDF
+http://yeni.mars3000.net:25461/live/salihakdogan/7zJNLVnNTk/570.ts
+#EXTINF:-1,DE | WDR HD
+http://yeni.mars3000.net:25461/live/salihakdogan/7zJNLVnNTk/194.ts
+#EXTINF:-1,DE | WDR KOLN
+http://yeni.mars3000.net:25461/live/salihakdogan/7zJNLVnNTk/568.ts
+#EXTINF:-1,DE | RTL UHD
+http://yeni.mars3000.net:25461/live/salihakdogan/7zJNLVnNTk/498.ts
+#EXTINF:-1,DE | RTL HD
+http://yeni.mars3000.net:25461/live/salihakdogan/7zJNLVnNTk/193.ts
+#EXTINF:-1,DE | RTL
+http://yeni.mars3000.net:25461/live/salihakdogan/7zJNLVnNTk/632.ts
+#EXTINF:-1,DE | PRO 7 UHD
+http://yeni.mars3000.net:25461/live/salihakdogan/7zJNLVnNTk/497.ts
+#EXTINF:-1,DE | PRO7 HD
+http://yeni.mars3000.net:25461/live/salihakdogan/7zJNLVnNTk/190.ts
+#EXTINF:-1,DE | PRO7
+http://yeni.mars3000.net:25461/live/salihakdogan/7zJNLVnNTk/630.ts
+#EXTINF:-1,DE | RTL2 UHD
+http://yeni.mars3000.net:25461/live/salihakdogan/7zJNLVnNTk/499.ts
+#EXTINF:-1,DE | RTL2 HD
+http://yeni.mars3000.net:25461/live/salihakdogan/7zJNLVnNTk/192.ts
+#EXTINF:-1,DE | RTL2
+http://yeni.mars3000.net:25461/live/salihakdogan/7zJNLVnNTk/857.ts
+#EXTINF:-1,DE | VOX UHD
+http://yeni.mars3000.net:25461/live/salihakdogan/7zJNLVnNTk/500.ts
+#EXTINF:-1,DE | VOX HD
+http://yeni.mars3000.net:25461/live/salihakdogan/7zJNLVnNTk/191.ts
+#EXTINF:-1,DE | VOX
+http://yeni.mars3000.net:25461/live/salihakdogan/7zJNLVnNTk/835.ts
+#EXTINF:-1,DE | SAT 1 UHD
+http://yeni.mars3000.net:25461/live/salihakdogan/7zJNLVnNTk/501.ts
+#EXTINF:-1,DE | SAT1 HD
+http://yeni.mars3000.net:25461/live/salihakdogan/7zJNLVnNTk/189.ts
+#EXTINF:-1,DE | SAT 1
+http://yeni.mars3000.net:25461/live/salihakdogan/7zJNLVnNTk/633.ts
+#EXTINF:-1,DE | KABEL 1  UHD
+http://yeni.mars3000.net:25461/live/salihakdogan/7zJNLVnNTk/496.ts
+#EXTINF:-1,DE | KABEL1 HD
+http://yeni.mars3000.net:25461/live/salihakdogan/7zJNLVnNTk/188.ts
+#EXTINF:-1,DE | KABEL 1
+http://yeni.mars3000.net:25461/live/salihakdogan/7zJNLVnNTk/628.ts
+#EXTINF:-1,DE | PRO 7 FUN  HD
+http://yeni.mars3000.net:25461/live/salihakdogan/7zJNLVnNTk/511.ts
+#EXTINF:-1,DE | PRO7 MAXX HD
+http://yeni.mars3000.net:25461/live/salihakdogan/7zJNLVnNTk/187.ts
+#EXTINF:-1,DE | PRO7 MAXX
+http://yeni.mars3000.net:25461/live/salihakdogan/7zJNLVnNTk/838.ts
+#EXTINF:-1,DE | DMAX
+http://yeni.mars3000.net:25461/live/salihakdogan/7zJNLVnNTk/853.ts
+#EXTINF:-1,DE | SIXX
+http://yeni.mars3000.net:25461/live/salihakdogan/7zJNLVnNTk/104.ts
+#EXTINF:-1,DE | ANEXI SD
+http://yeni.mars3000.net:25461/live/salihakdogan/7zJNLVnNTk/509.ts
+#EXTINF:-1,DE | ZEE ONE
+http://yeni.mars3000.net:25461/live/salihakdogan/7zJNLVnNTk/185.ts
+#EXTINF:-1,DE | TLC HD
+http://yeni.mars3000.net:25461/live/salihakdogan/7zJNLVnNTk/186.ts
+#EXTINF:-1,DE | TELE5
+http://yeni.mars3000.net:25461/live/salihakdogan/7zJNLVnNTk/848.ts
+#EXTINF:-1,DE | ARTE
+http://yeni.mars3000.net:25461/live/salihakdogan/7zJNLVnNTk/180.ts
+#EXTINF:-1,DE | 3SAT
+http://yeni.mars3000.net:25461/live/salihakdogan/7zJNLVnNTk/184.ts
+#EXTINF:-1,DE | ZDF INFO
+http://yeni.mars3000.net:25461/live/salihakdogan/7zJNLVnNTk/179.ts
+#EXTINF:-1,DE | ZDF NEO
+http://yeni.mars3000.net:25461/live/salihakdogan/7zJNLVnNTk/491.ts
+#EXTINF:-1,DE | ARD-alpha
+http://yeni.mars3000.net:25461/live/salihakdogan/7zJNLVnNTk/837.ts
+#EXTINF:-1,DE | ONE
+http://yeni.mars3000.net:25461/live/salihakdogan/7zJNLVnNTk/836.ts
+#EXTINF:-1,DE | PHOENIX
+http://yeni.mars3000.net:25461/live/salihakdogan/7zJNLVnNTk/634.ts
+#EXTINF:-1,DE | TAGESSCHAU 24
+http://yeni.mars3000.net:25461/live/salihakdogan/7zJNLVnNTk/182.ts
+#EXTINF:-1,DE | NTV  UHD
+http://yeni.mars3000.net:25461/live/salihakdogan/7zJNLVnNTk/503.ts
+#EXTINF:-1,DE | welt HD
+http://yeni.mars3000.net:25461/live/salihakdogan/7zJNLVnNTk/183.ts
+#EXTINF:-1,DE | NTV
+http://yeni.mars3000.net:25461/live/salihakdogan/7zJNLVnNTk/629.ts
+#EXTINF:-1,DE | WELT
+http://yeni.mars3000.net:25461/live/salihakdogan/7zJNLVnNTk/492.ts
+#EXTINF:-1,DE | Bloomberg
+http://yeni.mars3000.net:25461/live/salihakdogan/7zJNLVnNTk/639.ts
+#EXTINF:-1,DE | N24 DOKU
+http://yeni.mars3000.net:25461/live/salihakdogan/7zJNLVnNTk/181.ts
+#EXTINF:-1,DE | Kabel 1 Doku
+http://yeni.mars3000.net:25461/live/salihakdogan/7zJNLVnNTk/507.ts
+#EXTINF:-1,DE | hr-fernsehen
+http://yeni.mars3000.net:25461/live/salihakdogan/7zJNLVnNTk/569.ts
+#EXTINF:-1,DE | SWR BW
+http://yeni.mars3000.net:25461/live/salihakdogan/7zJNLVnNTk/510.ts
+#EXTINF:-1,DE | RTL  PLUS
+http://yeni.mars3000.net:25461/live/salihakdogan/7zJNLVnNTk/494.ts
+#EXTINF:-1,DE |  RTL PASSION
+http://yeni.mars3000.net:25461/live/salihakdogan/7zJNLVnNTk/506.ts
+#EXTINF:-1,DE | RTL Living HD
+http://yeni.mars3000.net:25461/live/salihakdogan/7zJNLVnNTk/505.ts
+#EXTINF:-1,DE | SAT 1 GOLD
+http://yeni.mars3000.net:25461/live/salihakdogan/7zJNLVnNTk/504.ts
+#EXTINF:-1,DE | KIKA
+http://yeni.mars3000.net:25461/live/salihakdogan/7zJNLVnNTk/207.ts
+#EXTINF:-1,DE | SUPER RTL
+http://yeni.mars3000.net:25461/live/salihakdogan/7zJNLVnNTk/172.ts
+#EXTINF:-1,DE | TOGGO PLUS
+http://yeni.mars3000.net:25461/live/salihakdogan/7zJNLVnNTk/493.ts
+#EXTINF:-1,DE | Nickelodeon/Nicknight
+http://yeni.mars3000.net:25461/live/salihakdogan/7zJNLVnNTk/171.ts
+#EXTINF:-1,DE | DISNEY channel
+http://yeni.mars3000.net:25461/live/salihakdogan/7zJNLVnNTk/177.ts
+#EXTINF:-1,DE | BOOMERANG
+http://yeni.mars3000.net:25461/live/salihakdogan/7zJNLVnNTk/174.ts
+#EXTINF:-1,DE | Cartoon Network
+http://yeni.mars3000.net:25461/live/salihakdogan/7zJNLVnNTk/212.ts
+#EXTINF:-1,DE | Nicktoons
+http://yeni.mars3000.net:25461/live/salihakdogan/7zJNLVnNTk/849.ts
+#EXTINF:-1,DE | DISNEY JR
+http://yeni.mars3000.net:25461/live/salihakdogan/7zJNLVnNTk/103.ts
+#EXTINF:-1,DE | DISNEY CINE MAGIC
+http://yeni.mars3000.net:25461/live/salihakdogan/7zJNLVnNTk/176.ts
+#EXTINF:-1,DE | DISNEY XD
+http://yeni.mars3000.net:25461/live/salihakdogan/7zJNLVnNTk/175.ts
+#EXTINF:-1,DE | DISNEY SD
+http://yeni.mars3000.net:25461/live/salihakdogan/7zJNLVnNTk/178.ts
+#EXTINF:-1,DE | JUNIOR
+http://yeni.mars3000.net:25461/live/salihakdogan/7zJNLVnNTk/102.ts
+#EXTINF:-1,DE | BabyTV
+http://yeni.mars3000.net:25461/live/salihakdogan/7zJNLVnNTk/854.ts
+#EXTINF:-1,DE | Nick Jr.
+http://yeni.mars3000.net:25461/live/salihakdogan/7zJNLVnNTk/850.ts
+#EXTINF:-1,DE | Fix&Foxi
+http://yeni.mars3000.net:25461/live/salihakdogan/7zJNLVnNTk/852.ts
+#EXTINF:-1,DE | VIVA / COMEDY CENTRAL
+http://yeni.mars3000.net:25461/live/salihakdogan/7zJNLVnNTk/856.ts
+#EXTINF:-1,DE | MTV
+http://yeni.mars3000.net:25461/live/salihakdogan/7zJNLVnNTk/855.ts
+#EXTINF:-1,DE  | VH1
+http://yeni.mars3000.net:25461/live/salihakdogan/7zJNLVnNTk/834.ts
+#EXTINF:-1,DE | MTV Hits
+http://yeni.mars3000.net:25461/live/salihakdogan/7zJNLVnNTk/821.ts
+#EXTINF:-1,DE | MTV Dance
+http://yeni.mars3000.net:25461/live/salihakdogan/7zJNLVnNTk/907.ts
+#EXTINF:-1,DE | MTV Music 24
+http://yeni.mars3000.net:25461/live/salihakdogan/7zJNLVnNTk/155.ts
+#EXTINF:-1,DE | CLASSICA
+http://yeni.mars3000.net:25461/live/salihakdogan/7zJNLVnNTk/635.ts
+#EXTINF:-1,DE | VH1 Classic
+http://yeni.mars3000.net:25461/live/salihakdogan/7zJNLVnNTk/820.ts
+#EXTINF:-1,DE | Deutsches Musik Fernsehen
+http://yeni.mars3000.net:25461/live/salihakdogan/7zJNLVnNTk/858.ts
+#EXTINF:-1,DE | BonGusto
+http://yeni.mars3000.net:25461/live/salihakdogan/7zJNLVnNTk/154.ts
+#EXTINF:-1,DE | RTL LIVING
+http://yeni.mars3000.net:25461/live/salihakdogan/7zJNLVnNTk/150.ts
+#EXTINF:-1,DE | CNBC
+http://yeni.mars3000.net:25461/live/salihakdogan/7zJNLVnNTk/844.ts
+#EXTINF:-1,DE | DW ENGLISCH
+http://yeni.mars3000.net:25461/live/salihakdogan/7zJNLVnNTk/210.ts
+#EXTINF:-1,DE | sky 1 UHD T
+http://yeni.mars3000.net:25461/live/salihakdogan/7zJNLVnNTk/830.ts
+#EXTINF:-1,DE | sky 1 HD
+http://yeni.mars3000.net:25461/live/salihakdogan/7zJNLVnNTk/156.ts
+#EXTINF:-1,DE | sky 1
+http://yeni.mars3000.net:25461/live/salihakdogan/7zJNLVnNTk/566.ts
+#EXTINF:-1,DE | sky CINEMA UHD
+http://yeni.mars3000.net:25461/live/salihakdogan/7zJNLVnNTk/827.ts
+#EXTINF:-1,DE | sky CINEMA
+http://yeni.mars3000.net:25461/live/salihakdogan/7zJNLVnNTk/169.ts
+#EXTINF:-1,DE | sky CINEMA  ACTION UHD T
+http://yeni.mars3000.net:25461/live/salihakdogan/7zJNLVnNTk/828.ts
+#EXTINF:-1,DE | sky CINEMA ACTION HD
+http://yeni.mars3000.net:25461/live/salihakdogan/7zJNLVnNTk/906.ts
+#EXTINF:-1,DE | sky CINEMA ACTION
+http://yeni.mars3000.net:25461/live/salihakdogan/7zJNLVnNTk/170.ts
+#EXTINF:-1,DE | sky CINEMA HITS UHD T
+http://yeni.mars3000.net:25461/live/salihakdogan/7zJNLVnNTk/829.ts
+#EXTINF:-1,DE | sky CINEMA HITS
+http://yeni.mars3000.net:25461/live/salihakdogan/7zJNLVnNTk/165.ts
+#EXTINF:-1,DE | sky ATLANTIC HD
+http://yeni.mars3000.net:25461/live/salihakdogan/7zJNLVnNTk/627.ts
+#EXTINF:-1,DE | sky ATLANTIC
+http://yeni.mars3000.net:25461/live/salihakdogan/7zJNLVnNTk/166.ts
+#EXTINF:-1,DE | sky CINEMA +1
+http://yeni.mars3000.net:25461/live/salihakdogan/7zJNLVnNTk/168.ts
+#EXTINF:-1,DE | sky CINEMA +24
+http://yeni.mars3000.net:25461/live/salihakdogan/7zJNLVnNTk/167.ts
+#EXTINF:-1,DE | sky CINEMA COMEDY
+http://yeni.mars3000.net:25461/live/salihakdogan/7zJNLVnNTk/163.ts
+#EXTINF:-1,DE | sky CINEMA NOSTALGIE
+http://yeni.mars3000.net:25461/live/salihakdogan/7zJNLVnNTk/164.ts
+#EXTINF:-1,DE | Sky CINEMA FAMILY
+http://yeni.mars3000.net:25461/live/salihakdogan/7zJNLVnNTk/101.ts
+#EXTINF:-1,DE | 13 THE STREET HD
+http://yeni.mars3000.net:25461/live/salihakdogan/7zJNLVnNTk/153.ts
+#EXTINF:-1,DE | 13 THE STREET
+http://yeni.mars3000.net:25461/live/salihakdogan/7zJNLVnNTk/205.ts
+#EXTINF:-1,DE | SYFY HD
+http://yeni.mars3000.net:25461/live/salihakdogan/7zJNLVnNTk/152.ts
+#EXTINF:-1,DE | SYFY
+http://yeni.mars3000.net:25461/live/salihakdogan/7zJNLVnNTk/563.ts
+#EXTINF:-1,DE | TNT FILM HD
+http://yeni.mars3000.net:25461/live/salihakdogan/7zJNLVnNTk/162.ts
+#EXTINF:-1,DE | TNT Film
+http://yeni.mars3000.net:25461/live/salihakdogan/7zJNLVnNTk/839.ts
+#EXTINF:-1,DE | TNT COMEDY HD
+http://yeni.mars3000.net:25461/live/salihakdogan/7zJNLVnNTk/161.ts
+#EXTINF:-1,DE | TNT Comedy
+http://yeni.mars3000.net:25461/live/salihakdogan/7zJNLVnNTk/905.ts
+#EXTINF:-1,DE | TNT Serie
+http://yeni.mars3000.net:25461/live/salihakdogan/7zJNLVnNTk/564.ts
+#EXTINF:-1,DE | NITRO
+http://yeni.mars3000.net:25461/live/salihakdogan/7zJNLVnNTk/141.ts
+#EXTINF:-1,DE | sky KRIMI
+http://yeni.mars3000.net:25461/live/salihakdogan/7zJNLVnNTk/565.ts
+#EXTINF:-1,DE | FOX HD
+http://yeni.mars3000.net:25461/live/salihakdogan/7zJNLVnNTk/158.ts
+#EXTINF:-1,DE | FOX SERIE
+http://yeni.mars3000.net:25461/live/salihakdogan/7zJNLVnNTk/157.ts
+#EXTINF:-1,DE | RTL CRIME
+http://yeni.mars3000.net:25461/live/salihakdogan/7zJNLVnNTk/151.ts
+#EXTINF:-1,DE | HEIMAT KANAL
+http://yeni.mars3000.net:25461/live/salihakdogan/7zJNLVnNTk/202.ts
+#EXTINF:-1,DE | ROMANCE TV
+http://yeni.mars3000.net:25461/live/salihakdogan/7zJNLVnNTk/148.ts
+#EXTINF:-1,DE | ROMANCE TV HD
+http://yeni.mars3000.net:25461/live/salihakdogan/7zJNLVnNTk/147.ts
+#EXTINF:-1,DE | Sky Cinema Arts
+http://yeni.mars3000.net:25461/live/salihakdogan/7zJNLVnNTk/495.ts
+#EXTINF:-1,DE | Sat.1 Emotions
+http://yeni.mars3000.net:25461/live/salihakdogan/7zJNLVnNTk/159.ts
+#EXTINF:-1,DE | RTL EMOTION HD
+http://yeni.mars3000.net:25461/live/salihakdogan/7zJNLVnNTk/149.ts
+#EXTINF:-1,DE | sky CINEMA EMOTION
+http://yeni.mars3000.net:25461/live/salihakdogan/7zJNLVnNTk/846.ts
+#EXTINF:-1,DE | E! Entertainment
+http://yeni.mars3000.net:25461/live/salihakdogan/7zJNLVnNTk/847.ts
+#EXTINF:-1,DE | Kinowelt TV HD
+http://yeni.mars3000.net:25461/live/salihakdogan/7zJNLVnNTk/203.ts
+#EXTINF:-1,DE | kabel eins classics
+http://yeni.mars3000.net:25461/live/salihakdogan/7zJNLVnNTk/140.ts
+#EXTINF:-1,DE | Silverline Movie Channel
+http://yeni.mars3000.net:25461/live/salihakdogan/7zJNLVnNTk/206.ts
+#EXTINF:-1,DE | Universal TV HD
+http://yeni.mars3000.net:25461/live/salihakdogan/7zJNLVnNTk/904.ts
